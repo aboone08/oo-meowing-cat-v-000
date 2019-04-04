@@ -1,12 +1,12 @@
-## code your solution here. 
-def Cat 
+## code your solution here.
+def Cat
   def @name
   @name = name
   end
   def name
     name = name
-  end 
+  end
   def meow
     puts "meow!"
   end
-end 
+end
