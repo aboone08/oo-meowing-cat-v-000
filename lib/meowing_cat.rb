@@ -1,6 +1,6 @@
 ## code your solution here.
 def Cat
-  def @name
+  def ::name
   @name = name
   end
   def name
